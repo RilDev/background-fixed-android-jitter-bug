@@ -1,5 +1,7 @@
 # Background Fixed Android Jitter Bug
 
+Issue ticket: https://issues.chromium.org/issues/323703303
+
 ## Description
 
 - I scroll down the page.
